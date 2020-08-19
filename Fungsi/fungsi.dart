@@ -1,8 +1,3 @@
-// Buku: pemrograman Android dengan Flutter
-// Halaman: 96
-
-//TODO: next ngoding
-
 import 'dart:io';
 
 void main() {
