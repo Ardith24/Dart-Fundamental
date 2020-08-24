@@ -11,7 +11,7 @@ void main() {
   m = (s / 60).floor();
   s = s % 60;
   
-  stdout.write(h);
-  stdout.write(m);
-  stdout.write(s);
+  print('Jam: $h');
+  print('Menit: $m');
+  print('Detik: $s');
 }
